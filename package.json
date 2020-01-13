@@ -1,0 +1,13 @@
+{
+  "name": "oneline-project",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "dist/app.js",
+  "scripts": {
+    "watch": "tsc --watch",
+    "dev": "node dist/app.js"
+  },
+  "dependencies": {
+    "@oneline/core": "^0.0.10"
+  }
+}
