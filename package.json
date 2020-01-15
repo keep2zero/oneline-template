@@ -5,9 +5,12 @@
   "main": "dist/app.js",
   "scripts": {
     "watch": "tsc --watch",
-    "dev": "node dist/app.js"
+    "dev": "nodemon dist/app.js"
   },
   "dependencies": {
-    "@oneline/core": "^0.0.10"
+    "@oneline/core": "^0.0.16"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
