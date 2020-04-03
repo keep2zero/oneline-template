@@ -8,7 +8,7 @@
     "dev": "nodemon dist/app.js"
   },
   "dependencies": {
-    "@oneline/core": "^0.0.16"
+    "@oneline/core": "^0.0.21"
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
